@@ -25,7 +25,7 @@
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/Akshatsrivastava26/Wealth-Creator.git
+git clone https://github.com/tanujahub25/Wealth-Creator.git
 cd Wealth-Creator
 ```
 
@@ -58,4 +58,4 @@ Contributions are welcome! Please fork the repository and create a pull request.
 ---
 
 ## 📧 Contact
-Created by [Akshat Kumar Srivastava](https://github.com/Akshatsrivastava26) – feel free to connect!
+Created by [Tanuja Kumari](https://github.com/tanujahub25) – feel free to connect!
